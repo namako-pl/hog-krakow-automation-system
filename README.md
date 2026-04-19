@@ -1,0 +1,1 @@
+# hog-krakow-automation-system
