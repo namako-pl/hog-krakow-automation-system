@@ -1,53 +1,55 @@
-HOG Chapter Kraków — Official Motorcycle Community Platform
-A comprehensive, responsive web service designed and implemented for the Kraków branch of the Harley Owners Group (HOG). The project blends a rugged, motorcycle-inspired aesthetic with modern UX solutions, aiming to integrate chapter members and provide real-time information about upcoming events.
+# HOG Chapter Kraków — Official Motorcycle Community Platform
 
-🏍️ Project Overview
+A comprehensive, responsive web service designed and implemented for the Kraków branch of the Harley Owners Group (HOG). The project blends a rugged, motorcycle-inspired aesthetic with modern UX solutions, aiming to integrate chapter members and provide real-time information about upcoming **events**.
+
+## 🏍️ Project Overview
+
 The website serves as the primary information hub for group members and Harley-Davidson enthusiasts. A key design challenge was maintaining consistency with global H-D branding while introducing unique, localized functionalities.
 
-✨ Key Features
-Dynamic Event System: An interactive calendar and "News" module featuring a custom-built lateral notification system (Sticky Widget).
+## ✨ Key Features
 
-Information Architecture: A clear structural division into sections: History, Gallery, Event Calendar, and Safety.
+* **Dynamic Event System**: An interactive calendar and "News" module featuring a custom-built lateral notification system (Sticky Widget).
+* **Information Architecture**: A clear structural division into sections: History, Gallery, Event Calendar, and Safety.
+* **Interactive Gallery**: A custom Lightbox system allowing users to view high-quality photos from parades and rides without leaving the current page.
+* **User Experience (UX)**: 
+    * Auto-sliding notifications for anniversary parades.
+    * Intuitive modal windows featuring route maps and detailed schedules.
+    * Full Responsiveness (Mobile-First Design).
 
-Interactive Gallery: A custom Lightbox system allowing users to view high-quality photos from parades and rides without leaving the current page.
+## 🛠️ Tech Stack
 
-User Experience (UX):
+* **Frontend**: HTML5, Tailwind CSS (Custom Configuration).
+* **Interactions**: Vanilla JavaScript (ES6+).
+* **Tools**: Git, GitHub, Image Optimization tools.
 
-Auto-sliding notifications for anniversary parades.
+## 🏗️ Technical Architecture
 
-Intuitive modal windows featuring route maps and detailed schedules.
+### View State Management
+The service implements custom layer logic (`z-index management`), allowing for seamless transitions between page content and multi-level modal windows (e.g., enlarging an image within an already open article).
 
-Full Responsiveness (Mobile-First Design).
+### Performance & Safety
+* **Performance**: Resource loading optimization (Lazy Loading for gallery images).
+* **UX Safety**: Implementation of clear safety protocols and messages for large-scale **events** (parades, group column rides).
 
-🛠️ Tech Stack
-Frontend: HTML5, Tailwind CSS (Custom Configuration).
+## 📱 Responsiveness (RWD)
 
-Interactions: Vanilla JavaScript (ES6+).
-
-Tools: Git, GitHub, Image Optimization tools.
-
-🏗️ Technical Architecture
-View State Management
-The service implements custom layer logic (z-index management), allowing for seamless transitions between page content and multi-level modal windows (e.g., enlarging an image within an already open article).
-
-Performance & Safety
-Performance: Resource loading optimization (Lazy Loading for gallery images).
-
-UX Safety: Implementation of clear safety protocols and messages for large-scale events (parades, group column rides).
-
-📱 Responsiveness (RWD)
 The site is fully optimized for mobile devices, which is crucial for users checking ride routes directly "from the road."
+* Adaptive navigation menu.
+* Scalable maps and graphics using `object-contain`.
+* Touch-friendly interfaces for closing modal windows.
 
-Adaptive navigation menu.
+---
 
-Scalable maps and graphics using object-contain.
+## 📸 Project Preview
 
-Touch-friendly interfaces for closing modal windows.
+### Home Page (Hero Section)
+![Home Page Preview](https://github.com/namako-pl/hog-krakow-automation-system/blob/main/hero.JPG)
 
-📸 Project Preview
-Home Page (Hero Section)
-News & Events Module
-Project developed as part of a portfolio expansion and a passion for the Harley-Davidson brand.
+### News & Events Module
+![News Section Preview](https://github.com/namako-pl/hog-krakow-automation-system/blob/main/news.JPG)
+
+---
+*Project developed as part of a portfolio expansion and a passion for the Harley-Davidson brand.*
 
 #Polish version 
 
