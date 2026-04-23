@@ -48,8 +48,9 @@ The site is fully optimized for mobile devices, which is crucial for users check
 ### News & Events Module
 ![News Section Preview](https://github.com/namako-pl/hog-krakow-automation-system/blob/main/news.JPG)
 
+
 ---
-*Project developed as part of a portfolio expansion and a passion for the Harley-Davidson brand.*
+*This project was commissioned by **HOG Chapter Kraków**. Developed as part of a professional portfolio expansion and driven by a passion for the Harley-Davidson brand.*
 
 #Polish version 
 
@@ -98,10 +99,10 @@ Strona została zoptymalizowana pod kątem urządzeń mobilnych, co jest kluczow
 ## 📸 Podgląd Projektu
 
 ### Strona Główna (Hero Section)
-![Podgląd strony głównej](link-do-twojego-screena-1.jpg)
+![Podgląd strony głównej](https://github.com/namako-pl/hog-krakow-automation-system/blob/main/hero.JPG)
 
 ### Moduł News i Wydarzeń
-![Podgląd sekcji aktualności](link-do-twojego-screena-2.jpg)
+![Podgląd sekcji aktualności]([link-do-twojego-screena-2.jpg](https://github.com/namako-pl/hog-krakow-automation-system/blob/main/news.JPG))
 
 ---
-*Projekt stworzony w ramach rozbudowy portfolio i pasji do marki Harley-Davidson.*
+*Projekt zlecony przez **HOG Chapter Kraków**. Stworzony w ramach rozbudowy profesjonalnego portfolio oraz z pasji do marki Harley-Davidson.*
