@@ -24,7 +24,7 @@ The website serves as the primary information hub for group members and Harley-D
 
 ## 🏗️ Technical Architecture
 
-* **Full Automation & Google Ecosystem Integration**: 
+**Full Automation & Google Ecosystem Integration**: 
     * **Smart Calendar**: The event schedule synchronizes automatically with Google Calendar. Adding a new event in Google Calendar instantly updates the website.
     * **Dynamic Gallery**: The photo gallery is synced with Google Drive. Adding a new folder to a dedicated Drive directory automatically generates a new gallery on the site.
       
@@ -84,7 +84,7 @@ Strona służy jako główne centrum informacyjne dla członków grupy oraz pasj
 
 ## 🏗️ Architektura Rozwiązania
 
-* **Pełna automatyzacja i integracja z ekosystemem Google**:
+**Pełna automatyzacja i integracja z ekosystemem Google**:
     * **Inteligentny Kalendarz**: Harmonogram wydarzeń synchronizuje się automatycznie z Kalendarzem Google. Każde nowe wydarzenie dodane w kalendarzu pojawia się natychmiast na stronie.
     * **Dynamiczna Galeria**: Galeria zdjęć jest połączona z Dyskiem Google. Wystarczy dodać folder ze zdjęciami do dedykowanego katalogu na Drive, aby strona sama zaktualizowała zasoby zdjęciowe.
       
