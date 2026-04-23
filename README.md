@@ -56,7 +56,8 @@ The site is fully optimized for mobile devices, which is crucial for users check
 ---
 *This project was commissioned by **HOG Chapter Kraków**. Developed as part of a professional portfolio expansion and driven by a passion for the Harley-Davidson brand.*
 
-#Polish version 
+
+## Polish version 
 
 # HOG Chapter Kraków — Oficjalny Serwis Społeczności Motocyklowej
 
