@@ -1,4 +1,4 @@
-# HOG Chapter Kraków — Official Motorcycle Community Platform
+# [HOG Chapter Kraków — Official Motorcycle Community Platform](https://hogkrakow.pl/)
 
 A comprehensive, responsive web service designed and implemented for the Kraków branch of the Harley Owners Group (HOG). The project blends a rugged, motorcycle-inspired aesthetic with modern UX solutions, aiming to integrate chapter members and provide real-time information about upcoming **events**.
 
@@ -59,7 +59,7 @@ The site is fully optimized for mobile devices, which is crucial for users check
 
 ## Polish version 
 
-# HOG Chapter Kraków — Oficjalny Serwis Społeczności Motocyklowej
+# [HOG Chapter Kraków — Oficjalny Serwis Społeczności Motocyklowej](https://hogkrakow.pl/)
 
 Kompletny, responsywny serwis internetowy zaprojektowany i wdrożony dla krakowskiego oddziału Harley Owners Group (HOG). Projekt łączy surową, motocyklową estetykę z nowoczesnymi rozwiązaniami UX, mającymi na celu integrację członków chapteru oraz informowanie o nadchodzących wydarzeniach.
 
